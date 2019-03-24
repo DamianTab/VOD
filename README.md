@@ -1,2 +1,2 @@
 # VOD
-Console VOD Project
+Console VOD Project in C++
